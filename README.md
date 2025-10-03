@@ -1,4 +1,4 @@
-# CSS + JavaScript Animations Demo
+# CSS + JavaScript Animations 
 
 This project shows how to combine **CSS transitions**, **CSS keyframe animations**, and **JavaScript functions** to create interactive effects on a webpage.
 
